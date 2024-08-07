@@ -327,6 +327,7 @@
   font-weight: 300;
   border-radius: 40px;
   transition: all 0.3s ease 0s;
+  border: none;
 }
 
 .button-one {

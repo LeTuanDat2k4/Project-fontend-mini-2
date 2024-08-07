@@ -7,10 +7,15 @@
   --font: "Raleway", sans-serif;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   color: var(--color-text);
   line-height: 1.5;
   font-family: var(--font);
+  overflow-x: hidden;
 }
 
 a {
